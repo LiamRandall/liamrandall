@@ -40,6 +40,15 @@ I care deeply about **open source, community, standards, and security** and inve
 
 ---
 
+## 📬 Contact Me
+
+- 💼 **LinkedIn** — [linkedin.com/in/liamrandall](https://www.linkedin.com/in/hectaman/)  
+- 🐦 **Twitter / X** — [@Hectaman](https://x.com/Hectaman/)  
+- 🌐 **Bluesky** — [liamrandall.bsky.social](https://bsky.app/profile/liamrandall.bsky.social/)  
+- 💻 **GitHub** — [github.com/liamrandall](https://github.com/liamrandall/)  
+
+---
+
 ## 🎤 Talks & Media
 
 I speak regularly on **platform engineering**, **WebAssembly**, and the **future of cloud computing**:
