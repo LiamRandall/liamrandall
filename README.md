@@ -29,7 +29,7 @@ I’ve spent my career building companies and open source communities that resha
 ## 🧭 Now
 
 Leading **[Cosmonic](https://www.cosmonic.com/)** — reinventing **platform engineering** for the age of WebAssembly.  
-Working closely with **[Bailey Hayes](https://github.com/baileyhayes)** (Cosmonic CTO & CNCF wasmCloud co-creator) to make **Wasm components** a first-class tool for enterprise software teams.
+Working closely with **[Bailey Hayes](https://github.com/ricochet)** (Cosmonic CTO & CNCF wasmCloud co-creator) to make **WebAssembly Components** a first-class tool for enterprise software teams.
 
 ---
 
