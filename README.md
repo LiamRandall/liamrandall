@@ -9,13 +9,13 @@ I've spent my career building companies and open source communities that reshape
 
 - 🌌 **[Cosmonic](https://www.cosmonic.com/)** — **Founder & CEO**, building [platform engineering tools for WebAssembly](https://www.cosmonic.com/)  
 - 🧩 **CNCF [wasmCloud](https://github.com/wasmCloud/wasmCloud)** — **Co-creator** of the [wasmCloud](https://github.com/wasmCloud/wasmCloud) project *(now a CNCF Incubating project)*  
-- 🛡 **Horizon3.ai** — **seed investor**  
-- 🔍 **OSQuery** — Led the **seed investment in [Kolide](https://techcrunch.com/2016/11/29/kolide-open-source-security/)** with @mephux, aka Dustin Webber, *(acquired by 1Password)*  
-- ☁️ **Cloud Custodian** — Drove **donation into CNCF** while at [Capital One](https://www.capitalone.com/); later **Investor, [Stacklet](https://www.stacklet.io/)**  
-- ☸️ **Kubernetes** — **Founder, [Critical Stack](https://techcrunch.com/2016/01/07/capital-one-buys-critical-stack/)** *(first Kubernetes-focused company, acquired by [Capital One](https://www.capitalone.com/))*  
-- 🛰 **Bro / Zeek** — Early contributor / dev rel / training; **Founder & CEO, [Broala](https://www.corelight.com/)** *(now Corelight)*  
+- 🛡 **[Horizon3.ai](https://horizon3.ai/)** — **seed investor**  
+- 🔍 **[OSQuery](https://www.osquery.io/)** — Led the **seed investment in [Kolide](https://techcrunch.com/2016/11/29/kolide-open-source-security/)** with @mephux, aka Dustin Webber, *(acquired by 1Password)*  
+- ☁️ **[Cloud Custodian](https://cloudcustodian.io/)** — Drove **donation into CNCF** while at [Capital One](https://www.capitalone.com/); later **Investor, [Stacklet](https://www.stacklet.io/)**  
+- ☸️ **[Kubernetes](https://kubernetes.io/)** — **Founder, [Critical Stack](https://techcrunch.com/2016/01/07/capital-one-buys-critical-stack/)** *(first Kubernetes-focused company, acquired by [Capital One](https://www.capitalone.com/))*  
+- 🛰 **[Bro / Zeek](https://zeek.org/)** — Early contributor / dev rel / training; **Founder & CEO, [Broala](https://www.corelight.com/)** *(now Corelight)*  
 - ♻️ **Commodities Brokerage** - Managed a team of folks building a B2B commodities brokerage; doing around 120M a year on the internet in ~2,000; acquired by IDSA. 
-- 🔗 **Network Engineer, Xavier University** - You'd maybe call it devops today, but I wrote utilities for managing large fleets of workstations (~6,000) while working on my CS degree
+- 🔗 **Network Engineer, [Xavier University](https://www.xavier.edu/)** - You'd maybe call it devops today, but I wrote utilities for managing large fleets of workstations (~6,000) while working on my CS degree
 
 ---
 
